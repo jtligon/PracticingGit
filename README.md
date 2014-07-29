@@ -11,6 +11,9 @@ If you are a student [click here](https://github.com/kjlubick/PracticingGit/blob
 Contributors:
 
 * Kevin Lubick
+* Jeff Ligon
+* Brandon Thorne
+* John Slankas
 * [Fork the repository, make a pull request and see your name here!]
 * [training aid #1]
 * [training aid #2]
