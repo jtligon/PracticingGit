@@ -15,5 +15,5 @@ Contributors:
 * Brandon Thorne
 * John Slankas
 * [Fork the repository, make a pull request and see your name here!]
-* [training aid #1]
+* [John Slankas]
 * [training aid #2]
